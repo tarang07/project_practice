@@ -1,0 +1,21 @@
+
+<br><br><br>
+<table class="table table-striped table-bordered">
+  <thead>
+    <tr class="table">
+      <th>Train no.</th>
+      <th>Train Name</th>
+		  <th>Origin</th>
+		  <th>End</th>
+     </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="train in tdetails">
+    <td><a href="">{{train.no}}</a></td>
+    <td>{{train.name}}</td>
+		<td>{{train.src}}</td>
+		<td>{{train.dest}}</td>
+    </tr>
+  </tbody>
+</table>
+ 

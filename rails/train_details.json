@@ -1,0 +1,95 @@
+[
+{
+    "no": "14208",
+    "name": "Padmavat Express",
+    "src": "New Delhi",
+    "dest":"Partapgarh",
+    "seats": "72"
+  },
+{
+    "no": "15038",
+    "name": "Anand Vihar Express",
+    "src": "New Delhi",
+    "dest":"Kolkata",
+   "seats": "72"
+  },
+{
+    "no": "22085",
+    "name": "Patna Express",
+    "src": "Patna",
+    "dest":"New Delhi",
+	"seats": "72"
+   
+  },
+{
+   "no": "14752",
+    "name": "Hello World SuperFast",
+    "src": "Hello",
+    "dest":"World",
+	"seats":"72"
+    
+},
+{
+    "no": "14210",
+    "name": "Begampura Express",
+    "src": "New Delhi",
+    "dest":"Jammu",
+    "seats": "72"
+  },
+  {
+    "no": "14248",
+    "name": "Panchi Express",
+    "src": "New Delhi",
+    "dest":"Lucknow",
+    "seats": "72"
+  },
+  {
+    "no": "14288",
+    "name": "Krishi Express",
+    "src": "Bulandshehr",
+    "dest":"Partapgarh",
+    "seats": "72"
+  },
+  {
+    "no": "14238",
+    "name": "Konaha Express",
+    "src": "Konaha",
+    "dest":"Desert",
+    "seats": "72"
+  },
+  {
+    "no": "14892",
+    "name": "Indian Express",
+    "src": "Moradabad",
+    "dest":"Himgiri",
+    "seats": "72"
+  },
+  {
+    "no": "19878",
+    "name": "Mehul Express",
+    "src": "Mumbai",
+    "dest":"New Delhi",
+    "seats": "72"
+  },
+  {
+    "no": "19358",
+    "name": "Alien Express",
+    "src": "Mars",
+    "dest":"Saturn",
+    "seats": "72"
+  },
+  {
+    "no": "14456",
+    "name": "Shiv Express",
+    "src": "Varanasi",
+    "dest":"Amethi",
+    "seats": "72"
+  },
+  {
+    "no": "456456",
+    "name": "Hazrat Express",
+    "src": "Nizammudin",
+    "dest":"Hyderabad",
+    "seats": "72"
+  }
+]

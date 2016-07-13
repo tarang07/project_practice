@@ -1,0 +1,33 @@
+[
+{
+    "no": "14208",
+    "name": "Padmavat Express",
+    "src": "New Delhi",
+    "dest":"Partapgarh",
+    "seats": "72"
+  },
+{
+    "no": "15038",
+    "name": "Anand Vihar Express",
+    "src": "New Delhi",
+    "dest":"Kolkata",
+   "seats": "72"
+  },
+{
+    "no": "22085",
+    "name": "Patna Express",
+    "src": "Patna",
+    "dest":"New Delhi",
+	"seats": "72"
+   
+  },
+{
+   "no": "14752",
+    "name": "Hello World SuperFast",
+    "src": "Hello",
+    "dest":"World",
+	"seats":"72"
+    
+}
+
+]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    Details Page
+  </title>
+</head>
+<body>
+<h2>Enter Details</h2>
+<div ng-app="myApp" ng-controller="trainctrl">
+<form role="form" >
+    <div class="form-group" >
+      <label for="Source">Source:</label>
+      <input type="text" class="form-control" id="src" placeholder="Enter Source" ng-model="reserve.src">
+    </div>
+    <div class="form-group">
+      <label for="Destination">Destination:</label>
+      <input type="text" class="form-control" id="dest" placeholder="Enter Destination" ng-model="reserve.dest">
+    </div>
+    <button ng-click="submit()">Submit</button>
+    <button ng-click = "check()">Check</button>
+  </form>
+
+  <table class="table table-striped table-bordered" ng-show = "foo">
+  <thead>
+    <tr class="table">
+      <th>Train no.</th>
+      <th>Train Name</th>
+      <th>Origin</th>
+      <th>End</th>
+     </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="train in tdetails  | filter:reserve">
+    <td><a href="">{{train.no}}</a></td>
+    <td>{{train.name}}</td>
+    <td>{{train.src}}</td>
+    <td>{{train.dest}}</td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+</body>
+</html>

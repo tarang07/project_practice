@@ -1,0 +1,46 @@
+[
+{
+    "id": "12723",
+    "name": "Andhra Pradesh Express",
+    "src": "Hyderabad Decan",
+    "dest":"New Delhi",
+    "seats": "5"
+  },
+{
+    "id": "22416",
+    "name": "Andhra Pradesh Express",
+    "src": "New Delhi",
+    "dest":"Vishakhapatnam",
+   "seats": "5"
+  },
+{
+    "id": "12724",
+    "name": "Andhra Pradesh Express",
+    "src": "New Delhi",
+    "dest":"Hyderabad Decan"
+   
+  },
+{
+   "id": "12707",
+    "name": "Andhra Pradesh Sampark Kranti",
+    "src": "Tirupati",
+    "dest":"H Nizamuddin"
+    
+  }
+  {
+   "id": "15909",
+    "name": "Abadh Assam Express",
+    "src": "New Tinuskia Junction",
+    "dest":"Darbhanga Junction"
+  
+  },
+   {
+   "id": "18242",
+    "name": "Abkp Durg Passenger E",
+    "src": "aMBIKAPUR",
+    "dest":"Durg"
+ 
+  }
+
+  
+]
